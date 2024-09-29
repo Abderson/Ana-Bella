@@ -46,3 +46,16 @@ h1 {
     color: #828282;
     font-size: 1.2em;
 }
+
+
+@media (max-width: 768px){
+    body {
+      width: 100%;
+    }
+  img { 
+      max-width: 100%;
+      height: auto;
+  
+  }
+  
+  }
